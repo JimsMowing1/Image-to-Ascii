@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+}
+.title{
+    text-align: center;
+    font-size: 14px;
+    color: green;
+    margin: 0px;
+}
+.title_div{
+    width: auto;
+    height: auto;
+}
+.inputbutton{
+    color: green;
+    font-size: 10px;
+    text-align: center;
+    width: 450px;
+    margin: auto;
+    margin-top: 20px;
+}
+.convertbutton{
+    color: green;
+    font-size: 10px;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    margin-top: 350px;
+    cursor: pointer;
+}
+.inputbutton:hover, .convertbutton:hover{
+    color: rgb(0, 71, 0);
+}
+.inputdiv{
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgb(36, 36, 36);
+    border-style: solid;
+    border-color: rgb(43, 43, 43);
+    width: 500px;
+    height: 700px;
+}
+.ancinput{
+    cursor: pointer;
+    
+}
+.fc{
+    color: green;
+    font-family: Arial;
+    text-align: center;
+    margin-bottom: 0%;
+} 
+
+.img{
+    filter: grayscale(100%);
+}
+.asciiart{
+    line-height: 10px;
+    text-align: center;
+}
